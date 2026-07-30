@@ -5,10 +5,10 @@ if u want that file to be unsatge u can use this cmd
 u can aslo use this cmd for unstage the file 
 3. git reset [filename]
 u can aslo see the branch using this cmd :
-git branch
+4. git branch
 if u want to create new branch u can use this cmd:
-git branch [branch-name]
+5. git branch [branch-name]
 if u want to move to branch that u created for working with that branch  then use this cmd :
-git checkout [branch-name]
+6. git checkout [branch-name]
 if u want to see u are in or not in branch use this cmd :
-git branch it show star 
+7. git branch it show star 
