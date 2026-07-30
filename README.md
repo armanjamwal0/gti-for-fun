@@ -12,3 +12,7 @@ if u want to move to branch that u created for working with that branch  then us
 6. git checkout [branch-name]
 if u want to see u are in or not in branch use this cmd :
 7. git branch it show star 
+if u want to see previous logs that u done u can use this command
+8. git log
+if i say i want last 3 commit then i use this cmd :
+git log -p -3
